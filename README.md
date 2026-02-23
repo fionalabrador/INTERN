@@ -1,4 +1,4 @@
-[issues.csv](https://github.com/user-attachments/files/25486196/issues.csv)This github repo is to showcase the project's I've done with Socia. 
+This github repo is to showcase the project's I've done with Socia. 
 
 Attached here is the link for the revised User Interface of Citiworks as instructed by Sir Jason. 
 
@@ -17,3 +17,4 @@ QA Testing - February 23, 2026
 Perfromed Manual QA Testing on APC-System
 Detailed QA Report Attached: 
 [issues.pdf](https://github.com/user-attachments/files/25486855/issues.pdf)
+[issues.csv](https://github.com/user-attachments/files/25486196/issues.csv)
